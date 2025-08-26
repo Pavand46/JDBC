@@ -7,8 +7,6 @@ It includes separate files for:
 
 Insert → InsertData.java
 
-Read → ReadData.java
-
 Update → UpdateData.java
 
 Delete → DeleteData.java
